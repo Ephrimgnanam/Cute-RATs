@@ -1,12 +1,7 @@
 # 🐀 Remote Access Tools (RATs) - Educational Archive
 
-Welcome to the **Remote Access Tools (RATs) - Educational Archive**, a curated collection of open-source and historical RATs gathered strictly for **educational**, **research**, and **cybersecurity awareness** purposes.
-                           (\,/)
-                            oo   '''//,        _
-                          ,/_;~,        \,    / '
-                          "'   \    (    \    !
-                                ',|  \    |__.'
-                                '~  '~----''   
+Welcome to the **Cute RATs Collections - Educational Archive**, a curated collection of open-source and historical RATs gathered strictly for **educational**, **research**, and **cybersecurity awareness** purposes.
+
 
 ## ⚠️ Disclaimer
 
