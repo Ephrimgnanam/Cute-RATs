@@ -57,7 +57,7 @@ Each RAT in this archive includes:
 If you’re using this repo for training:
 
 - Always test in a **controlled, isolated lab environment**.
-- Do **not** deploy any tool to devices without **explicit permission**.
+- Do **not** deploy any samples to other's devices without **explicit permission**.
 - Respect **your local laws** and international cybersecurity norms.
 
 ```text
