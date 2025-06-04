@@ -1,6 +1,6 @@
 Welcome to the 🐀 **Cute-RATs**, a collection of Remote Access Trojans (RATs) gathered from public sources (like [MalwareBazaar](https://bazaar.abuse.ch)) for malware research, reverse engineering, and educational purposes.
 
-Here, the rodents bite. But only virtually. 🧠
+Here, the rodents bite but only virtually. 🧠
 ```text
        (\__/)
        (•ㅅ•)  🧠💻💥
@@ -42,7 +42,7 @@ Big thanks to:
 
 ---
 
-## 🧰 Included RATs
+## 🧰 Included RATs(As of now i'm lazy will do it in future)
 
 Each RAT in this archive includes:
 
@@ -67,7 +67,7 @@ If you’re using this repo for training:
 
 ```
 
-## ⭐️ Support The Lab
+## ⭐️ Support The Repo
 
 Star the repo if you find it useful.
 Pull requests and analysis contributions welcome.
